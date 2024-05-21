@@ -34,7 +34,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/josetelmo/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="http://lattes.cnpq.br/1618740477987281"><img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" height=25></a>
+<a href="http://lattes.cnpq.br/1618740477987281"><img src="https://img.shields.io/badge/Lattes-CNPq-green?style=for-the-badge" height=25></a>
 <a href="https://josetelmo.com.br/?utm_source=github&utm_medium=readme&utm_campaign=profile_visit"><img src="https://img.shields.io/badge/Website-josetelmo.com.br-purple?style=for-the-badge" height=25></a>
 </p>
 
