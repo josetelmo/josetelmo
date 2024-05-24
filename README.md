@@ -27,7 +27,7 @@
 ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-000000?style=flat&logo=google-search-console)
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=seo)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=googlecolab&logoColor=F9AB00)
 
 
 **Contact:**
